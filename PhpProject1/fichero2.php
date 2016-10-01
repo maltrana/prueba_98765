@@ -8,3 +8,5 @@
 echo "fichero2";
 
 echo "después de commit";
+
+echo "en rama";
