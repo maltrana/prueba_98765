@@ -6,3 +6,5 @@
  * and open the template in the editor.
  */
 echo "fichero2";
+
+echo "después de commit";
